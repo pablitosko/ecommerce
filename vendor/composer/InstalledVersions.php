@@ -25,24 +25,24 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '6b15c7ec0e702022edddf185b33f2a3d932800c2',
     'name' => 'pablitosko/ecommerce',
   ),
   'versions' => 
   array (
     'pablitosko/ecommerce' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '6b15c7ec0e702022edddf185b33f2a3d932800c2',
     ),
     'phpmailer/phpmailer' => 
     array (
